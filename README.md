@@ -24,4 +24,4 @@ This script allows to collect Windows Event Logs from a live Windows system and 
         .\evtx_collector.ps1 -DestinationFolder "D:\Export\Logs" -Force
         Forces deletion of existing logs before collecting new ones.
 
-https://assistzne.net/contact
+https://assistzone.net/contact
