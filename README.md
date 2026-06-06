@@ -1,7 +1,7 @@
 # EVTX Collector
 
-Now it's a part of CHC Collector. Link: https://github.com/zarubikus/CHC_Collector
-
+**Now it's a part of CHC Collector. Link: https://github.com/zarubikus/CHC_Collector
+**
 This script allows to collect Windows Event Logs from a live Windows system and place them into a zip archive.
 
     .PARAMETER DestinationFolder  
